@@ -1,0 +1,16 @@
+Check that the calculator is opening Correctly or not.
+Verify that all the buttons are present and text written on them is readable.
+Check That the operations of Tip Calculations are working fine.
+Verify that value sliders are working fine.
+Verify the number of digits allowed to enter in the calculator for tip operation.
+Check the limit of the response value.
+Checkthat if negative values are working correctly or not.
+Check if the user can delete digits one by one using the backspace key.
+Check if the calculator allows copy and paste functionality.
+Check if the calculator window maximizes to certain window size.
+Check if the calculator has any specific preferences.
+Check if the clear key is working.
+Check if it is working for Decimal numbers or not.
+Check if number of people are only natural numbers.
+Check if answer is in visible font or not.
+Check if calculator runs smoothly in every platform or not.
